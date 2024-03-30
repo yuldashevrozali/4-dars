@@ -1,0 +1,17 @@
+textarea {
+    display: flex;
+    width: 670px;
+    margin-top: 15px;
+    resize: none;
+    height: 148px;
+    border-radius: 16px;
+    font-size: 22px;
+    border: 1px solid #E3E3E3;
+    padding: 18px;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+label{
+    margin-top: 15px;
+}
